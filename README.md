@@ -98,7 +98,10 @@ timeline
 ---
 
 ## 🎓 Education
-**B.Sc. Information Systems** — Mansoura University *(2022 – 2026)*
+**Bachelor's Degree in Information Systems (IS)**
+
+- ![University Badge](https://img.shields.io/badge/Mansoura_Universit-0055A4?style=flat&logo=university&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20August%202025-yellow)
 
 ---
 
