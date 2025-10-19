@@ -1,148 +1,125 @@
-<!-- ====== HEADER BANNER ====== -->
-<!-- (اختياري) ارفع بانر 1600x400 على GitHub أو Imgur وحطه هنا -->
+<!-- ======================= DARK THEME README ======================= -->
 <p align="center">
-  <img src="ADD_LINK_TO_HEADER_BANNER" alt="Ahmed Sheta — Machine Learning Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2f81f7&height=220&section=header&text=Ahmed%20Sheta%20—%20Machine%20Learning%20Engineer&fontSize=38&fontAlignY=40&desc=Data%20Science%20%7C%20Deep%20Learning%20%7C%20AI&descSize=16&descAlignY=62&descAlign=50" alt="Ahmed Sheta — Machine Learning Engineer"/>
 </p>
-
-<h1 align="center">Ahmed Sheta — Machine Learning Engineer</h1>
-
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?size=24&width=700&lines=Machine+Learning+Engineer;Data+Science+%26+MLOps;Building+AI+Products+that+ship">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=700&lines=Machine+Learning+Engineer;Data+Science+%26+MLOps;Building+AI+Products+that+ship" alt="typing banner">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=600&center=true&vCenter=true&width=720&height=45&color=58A6FF&lines=Machine+Learning+Engineer;Building+ML+Pipelines;AI+%2F+MLOps+%2F+Data+Science;Turning+Ideas+Into+Deployed+Models">
 </p>
 
 <p align="center">
-  <!-- Social badges -->
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ahmed.sheta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-sheta-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ahmed.sheta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-BB86FC.svg?style=for-the-badge&logo=gmail&logoColor=1b1f24"></a>
+  <a href="https://github.com/Ahmed-sheta-dev"><img src="https://img.shields.io/badge/GitHub-Ahmed--sheta--dev-24292e.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ## 👋 About Me
+I’m a **Machine Learning Engineer** passionate about designing and deploying **production-grade ML systems**.  
+I focus on turning data into practical models, automating processes, and making AI accessible and useful for real products.
 
-I’m a **Machine Learning Engineer** focused on turning data into **production-grade** solutions.  
-I build **end-to-end ML pipelines** (data ➜ features ➜ models ➜ deployment), automate preprocessing/training, and collaborate with product/engineering to ship reliable AI features.
-
-- **Strengths:** ETL, feature engineering, model development (classic ML & DL), API integration, testing & monitoring.
-- **Stack:** Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn), Flask (APIs), ONNX (export), Git/GitHub.
-- **Mindset:** Product-first. Simple where possible, robust where it matters.
-
----
-
-## 🧠 Tech Stack (with icons)
-
-<p>
-  <!-- Languages & Data -->
-  <img src="https://skillicons.dev/icons?i=python" height="42" title="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Matplotlib-315796?style=for-the-badge&logo=matplotlib&logoColor=white" height="28"/>
-
-  <!-- ML/DL -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="42" title="PyTorch / TensorFlow"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/>
-
-  <!-- APIs / Ops -->
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="28"/>
-</p>
-
-> *(Add logos you like from* https://skillicons.dev *أو* shields.io *وعدّل الأحجام لو حبيت)*
+- 🧠 Specialized in ML, DL, and MLOps  
+- ⚙️ End-to-End pipeline development  
+- 🚀 Real impact: From data preprocessing → model training → ONNX deployment
 
 ---
 
 ## 💼 Experience
 
-### 🤖 Junior Machine Learning Engineer — InnovaDigits
-**Dec 2024 – Present · El Mansoura, Egypt**
+### 🧠 Junior Machine Learning Engineer — InnovaDigits  
+*Dec 2024 – Present · El Mansoura, Egypt*  
+- Built **hybrid ML pipelines** (tabular + image embeddings) → improved accuracy from `54%` to `81%`.  
+- Developed **Auto/Semi-Auto Preprocessing & AutoML** modules.  
+- Integrated models into products using **ONNX + Flask APIs**.  
+- Collaborated closely with Product & Backend teams for production delivery.
 
-**Client ML Solution**  
-- Built an end-to-end pipeline for a drawing-competition use case, merging **tabular** data with **image embeddings** (ViT, MobileNet).  
-- Improved model accuracy from **54% → 81%** via pipeline optimization & better training.
+### 📊 Data Analysis & ML Intern — InnovaDigits  
+*Jul 2024 – Nov 2024*  
+- Learned & applied Python, NumPy, Pandas, Matplotlib, Seaborn.  
+- Developed ML models (Regression, Classification, Clustering).  
+- Performed EDA & feature engineering.
 
-**Core Product Development**  
-- **Auto/Semi-Auto Preprocessing:** column typing, missing values, outliers, cleaning recommendations, EDA summaries.  
-- **Auto/Semi-Auto ML:** automated training/evaluation + **ONNX** export; integration via **Flask** APIs; testing & monitoring.  
-- Structure/performance improvements and **product/UX** input alongside engineering.
+### 📈 Volunteer Data Analyst — InnovaDigits  
+*May 2024 – Jun 2024*  
+- Created Excel dashboards with Power Query & DAX.  
+- Improved internal reporting efficiency.
 
-**R&D & Enablement**  
-- WIP research idea on **Transformers** with reduced feature sets at inference.  
-- Company-sponsored backend training (**Django**) to support ML–backend integration.
+### 🧭 Visitor Program — InnovaDigits  
+*Mar 2024 – Apr 2024*  
+- Rotational exposure to multiple teams (Tech, Product, HR).  
+- Gained foundational understanding of the company’s ML workflow.
 
 ---
 
-### 📊 Data Analysis & ML Intern — InnovaDigits
-**Jul 2024 – Nov 2024 · El Mansoura, Egypt**  
-Python foundations (OOP), data stack (NumPy/Pandas/Matplotlib/Seaborn), ML track (preprocessing, regression, classification, clustering, fe, basic NNs), ETL & tuning, stakeholder comms.
+### 🎓 Education & Career Timeline
+```mermaid
+timeline
+    title Journey
+    2022-10 : B.Sc. Information Systems (Mansoura Univ.)
+    2024-03 : Visitor Program — InnovaDigits
+    2024-05 : Volunteer Data Analyst — InnovaDigits
+    2024-07 : Data Analysis & ML Intern — InnovaDigits
+    2024-09 : NTI ML for Data Analysis (90h + 30h)
+    2024-12 : Junior Machine Learning Engineer — InnovaDigits
+```
+---
 
-### 📈 Volunteer Data Analyst — InnovaDigits
-**May 2024 – Jun 2024 · El Mansoura, Egypt**  
-Advanced Excel (INDEX/MATCH, VLOOKUP/HLOOKUP, LEFT/RIGHT/MID), **Power Query**, **Power Pivot**, **DAX**; Excel ↔ Power BI dashboards; process improvement.
+## 🧰 Technical Skills
 
-### 🧭 Visitor Program — InnovaDigits
-**Mar 2024 – Apr 2024 · El Mansoura, Egypt**  
-Cross-department exposure (Business, HR, PR, Outsourcing, Product, Data, Tech), lifecycle workshops, fundamentals (OOP, DS/Algo, Clean Architecture, Design Patterns), HR/ATS insights.
+### 🐍 Programming & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD54F?style=for-the-badge&logo=huggingface&logoColor=000)
+
+### 🧠 Deep Learning & GenAI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🚀 Deployment & MLOps
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
-
-- **Machine Learning for Data Analysis — NTI**  
-  *Sep 2024 – Oct 2024 · 90h technical + 30h coaching · Score: 96%*
-- **Transact SQL Queries using SQL Server**  
-  *May 2025 · 8h*
-
-> (أضف أي شهادات أخرى هنا)
+- 📜 Machine Learning for Data Analysis — NTI *(2024 · 90h + 30h)*  
+- 📜 Transact SQL Queries using SQL Server *(2025)*
 
 ---
 
-## 🎯 Highlighted Impact (visual chips)
+## 🎓 Education
+**B.Sc. Information Systems** — Mansoura University *(2022 – 2026)*
 
+---
+
+## 🏆 Highlights
 <p>
-  <img src="https://img.shields.io/badge/Accuracy_Improved-54%25%E2%86%9281%25-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Auto_Pipelines-Preprocessing_%2B_Training-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Deployment-ONNX_%2B_Flask-2f81f7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Collaboration-Product_%2F_Backend_%2F_UX-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Accuracy_Improved-54%25%E2%86%9281%25-10B981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation-Auto_Preprocessing_%2F_AutoML-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deployment-ONNX_%2B_Flask-9333EA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Collaboration-Product_%7C_Backend_%7C_UX-6B7280?style=for-the-badge">
 </p>
 
 ---
 
-## 📚 Education
+## 📬 Contact
+- 📧 **ahmed.sheta.dev@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-sheta-dev)  
+- 💻 [GitHub](https://github.com/Ahmed-sheta-dev)
 
-**B.Sc. Information Systems — Mansoura University**  
-*Oct 2022 – Jul 2026*
-
----
-
-## 🤝 Volunteering
-
-**HR Volunteer — MEGA Team MU (Dec 2023 – Dec 2024)**  
-Managed the **UI/UX track** (scheduling, progress tracking, evaluations), organized events & mock-interview workshops, helped with interviews & onboarding; recognized among **top contributors**.
-
-**Community Volunteer — Multiple NGOs (2021 – Present)**  
-Event-based support: donation/aid drives, Ramadan campaigns, clothing collection/cleaning, logistics & on-ground organization.
-
----
-
-## 📬 Contact & Quick Links
-
-- Email: **ahmed.sheta.dev@gmail.com**  
-- LinkedIn: **YOUR_LINKEDIN_URL**  
-- Resume: **YOUR_RESUME_LINK**  
-- Portfolio: **YOUR_PORTFOLIO_URL**
-
----
-
-<!-- ====== STATS / FUN SECTION (اختياري) ====== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-sheta-dev&show_icons=true&count_private=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-sheta-dev&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
